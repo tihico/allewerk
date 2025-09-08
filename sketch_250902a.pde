@@ -1,0 +1,13 @@
+println("hoiii");
+print("float");
+background(255,255,255);
+size(640, 480);
+ellipse(80,80,80,80);
+fill(255,132,9);
+text("hallooooooo", 50, 90);
+fill(255,255,0);
+text("T", 100,100);
+fill(0,0,255);
+text("H", 150,100);
+noFill();
+rect(150,180,90,40);
